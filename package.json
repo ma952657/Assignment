@@ -31,7 +31,7 @@
     "eventemitter3": "^1.1.1",
     "express": "^4.13.4",
     "flux": "^2.1.1",
-    "mongodb": "^2.1.7",
+    "mongodb": "^3.1.13",
     "node-sass": "^3.4.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
